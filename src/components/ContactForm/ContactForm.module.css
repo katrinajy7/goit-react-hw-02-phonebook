@@ -5,16 +5,16 @@ label {
   }
   button {
     margin: 5px 10px;
-    /* background-color: #0a0131ab; */
+    background-color: #0a0131ab;
     color: white;
     border-radius: 7px;
     border-color: #0a0131ab;
   }
-  /* button:hover {
+  button:hover {
     background-color: white;
     color: #0a0131ab;
     border-color: #0a0131ab;
-  } */
+  }
   .contactform {
     width: 300px;
     padding: 20px;
